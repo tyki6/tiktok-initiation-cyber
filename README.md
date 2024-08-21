@@ -10,7 +10,7 @@ Ceci est un projet open source pour apprendre la cyber sécurité en testant les
 - [Injection SQL  BASIC 1](./injection_sql/1/README.md)
 - [Injection SQL  BASIC 2](./injection_sql/2/README.md)
 - [Injection SQL  UNION](./injection_sql/3/README.md)
-- [FAILLE LFI( Locale file inclusion)](./lfi/README.md)
+- [LFI( Locale file inclusion)](./lfi/README.md)
 - [Template Injection](./template_injection/README.md)
 - [XSS](./xss/README.md)
 
