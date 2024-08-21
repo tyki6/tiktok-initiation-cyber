@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Login</title>
+</head>
+<body>
+    <h1>Authentification</h1>
+    <form method="post" action="/login">
+        <label for="login">Login:</label>
+        <input type="text" id="login" name="login" required><br><br>
+        <label for="mot_de_passe">Mot de passe:</label>
+        <input type="password" id="mot_de_passe" name="mot_de_passe" required><br><br>
+        <button type="submit">Se connecter</button>
+    </form>
+    {% if message %}
+    <p>{{ message }}</p>
+    {% endif %}
+    {% if query %}
+    <p>Indice la requête est: {{ query }}</p>
+    {% endif %}
+</body>
+</html>

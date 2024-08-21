@@ -1,0 +1,17 @@
+{
+  "name": "injection_sql",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "express-oas-generator": "^1.0.46",
+    "sqlite3": "^5.1.7"
+  }
+}
