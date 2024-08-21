@@ -27,8 +27,8 @@
 1. **Clonez ce dépôt** sur votre machine :
 
     ```bash
-    git clone https://github.com/votre-utilisateur/repo-nom.git
-    cd repo-nom
+    git clone https://github.com/tyki6/tiktok-initiation-cyber.git
+    cd tiktok-initiation-cyber
     ```
 
 2. **Lancez le serveur Flask** :

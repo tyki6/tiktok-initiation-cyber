@@ -1,4 +1,4 @@
-# test tes connaissances en cyber
+# Test tes connaissances en cyber
 
 Ceci est un projet open source pour apprendre la cyber sécurité en testant les failles de sécu les plus connues. Pour plus d'info et une demo live check mon tiktok: https://www.tiktok.com/@tyki6
 
